@@ -41,6 +41,7 @@ def main_controls():
             1. Open a new ticket
             2. Update the status of the ticket
             3. Display the tickets
+            4. Quit program
             """)
         
         choice = input("Please make a selection: ")
